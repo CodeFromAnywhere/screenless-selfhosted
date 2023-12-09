@@ -21,4 +21,4 @@ At `pages/api/screenless.ts` you can see what happens with your incoming webhook
 
 This boilerplate uses [Next.js](https://nextjs.org/) and [React](https://react.dev/)
 
-To learn more about Screenless, take a look [the website](https://screenless.org)
+To learn more about Screenless, take a look at [the website](https://screenless.org)
