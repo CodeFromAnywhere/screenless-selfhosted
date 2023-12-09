@@ -5,9 +5,13 @@ Besides, this example can be used directly as well to create a searchable databa
 ## Getting Started
 
 1. Fork this repo
-2. Deploy it at [Vercel](https://vercel.com)
+2. Deploy it at [Vercel](https://vercel.com) or anywhere else.
 3. Set your environment variables to include your `SCREENLESS_SECRET` and `SUPABASE_SECRET`
 4. Visit the website and use the shown webhook URL in screenless
+
+## Demo
+
+See https://screenless-selfhosted.vercel.app/
 
 ## Changing behavior
 

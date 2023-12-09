@@ -32,6 +32,8 @@ export default function Home() {
           >
             By Screenless
           </a>
+          <a             className="flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0"
+href="https://github.com/CodeFromAnywhere/screenless-selfhosted" target="_blank">Github repo</a>
         </div>
       </div>
 
