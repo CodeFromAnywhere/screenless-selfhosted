@@ -1,0 +1,58 @@
+[
+  {
+    "modelName": "SwcInterface",
+    "name": "Data",
+    "start": 62,
+    "end": 111,
+    "raw": "type Data = {\n  message: string;\n  body?: any;\n};",
+    "length": 49,
+    "absolutePath": "/Users/king/os/packages/open-source/screenless-selfhosted/src/pages/api/screenless.ts",
+    "projectRelativePath": "packages/open-source/screenless-selfhosted/src/pages/api/screenless.ts",
+    "isExported": false,
+    "packageCategory": "open-source",
+    "packageName": "screenless-selfhosted",
+    "operationClassification": "ui-web",
+    "type": {
+      "isArray": false,
+      "isEnum": false,
+      "isEnumLiteral": false,
+      "isObject": false,
+      "isPrimitive": false,
+      "rawType": "",
+      "typeCoverage": 0,
+      "typeDefinition": {
+        "type": "object",
+        "properties": {
+          "message": {
+            "type": "string"
+          },
+          "body": {}
+        },
+        "required": [
+          "message"
+        ],
+        "additionalProperties": false
+      },
+      "simplifiedSchema": {
+        "properties": [
+          {
+            "name": "message",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "body",
+            "required": false,
+            "schema": {
+              "properties": [],
+              "type": "object"
+            }
+          }
+        ],
+        "type": "object"
+      }
+    }
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "modelName": "SchemaItem",
+    "projectRelativePath": "packages/open-source/screenless-selfhosted/src/pages/api/screenless.ts",
+    "name": "Data",
+    "absolutePath": "/Users/king/os/packages/open-source/screenless-selfhosted/src/pages/api/screenless.ts",
+    "operationRelativePath": "src/pages/api/screenless.ts",
+    "schema": {
+      "$schema": "http://json-schema.org/draft-07/schema#",
+      "$ref": "#/definitions/Data",
+      "definitions": {
+        "Data": {
+          "type": "object",
+          "properties": {
+            "message": {
+              "type": "string"
+            },
+            "body": {}
+          },
+          "required": [
+            "message"
+          ],
+          "additionalProperties": false
+        }
+      }
+    }
+  }
+]
